@@ -4,5 +4,5 @@
 
 ## 内容导航 
 
-- [LaTeX 模板](./latex-template/)：包含论文LaTeX模板及使用说明 
-- [查重工具](./plagiarism-tools/)：汇总可用的论文查重平台链接与使用指引
+- [LaTeX 模板](./latex-template/)：包含论文LaTeX模板及相关的一些教程。
+- [查重工具](./plagiarism-tools/)：汇总可用的论文查重平台链接与使用指引。
