@@ -1,4 +1,4 @@
-\# USTC-SSE-23-SoftDesign2-Paper-Collab 
+# USTC-SSE-23-SoftDesign2-Paper-Collab 
 
 本仓库为中国科学技术大学软件学院2023级软设2班论文协作库，提供LaTeX论文模板与查重工具资源，助力班级论文撰写与查重工作高效开展。 
 
